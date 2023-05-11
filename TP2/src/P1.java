@@ -16,7 +16,7 @@ public class P1 {
         //declarate stack: pila
         Stack<String> pila = new Stack<>();
         pila.push("A");
-        pila.push("B");
+        pila.push("C");
         pila.push("D");
         pila.push("F");
         pila.push("K");
